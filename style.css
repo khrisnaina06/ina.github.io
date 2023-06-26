@@ -275,6 +275,7 @@
     background-color: #343a40;
     color: #fff;
   }
+  
   footer .layar-dalam {
     display: flex;
     flex-direction: row;
@@ -340,3 +341,19 @@
     .layar-penuh #home .video {
      width: 120%;
   }
+  .footer-logo-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    } 
+    .footer-logo-content img {
+      width: 28px; /* Sesuaikan ukuran yang diinginkan */
+      height: 28px; /* Sesuaikan ukuran yang diinginkan */
+      margin: -18px;
+    } 
+
+  footer .footer-logo-content a.ig-icon {
+    width: 23px;
+    margin-left: 27px;
+  }
+  
